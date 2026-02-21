@@ -3,7 +3,7 @@ This project implements a Real-Time Emotion Detection System using Computer Visi
 
 The application demonstrates the practical integration of OpenCV, TensorFlow/Keras, and Deep Learning techniques for real-time inference.
 
-Key Features
+# Key Features
 
 Real-time face detection using Haar Cascade Classifier
 
@@ -15,7 +15,7 @@ Lightweight and efficient implementation
 
 Exit functionality using keyboard input (q key)
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -29,7 +29,7 @@ NumPy
 
 Deep Learning (CNN)
 
-System Architecture
+# System Architecture
 
 Capture live video stream from webcam
 
@@ -47,7 +47,7 @@ Predict emotion category
 
 Display emotion label on the video frame
 
-Emotions Detected
+# Emotions Detected
 
 Angry
 
@@ -59,7 +59,7 @@ Sad
 
 Surprised
 
-Future Enhancements
+# Future Enhancements
 
 Improve model accuracy with larger dataset
 
