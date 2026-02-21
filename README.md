@@ -1,3 +1,4 @@
+<img width="1191" height="719" alt="Screenshot 2026-02-21 185342" src="https://github.com/user-attachments/assets/a47f3868-6934-43e9-9423-58e3825bac55" />
 # Real-Time-Emotion-Detection
 This project implements a Real-Time Emotion Detection System using Computer Vision and Deep Learning. The system captures live video from a webcam, detects faces in real time, and classifies facial expressions into predefined emotion categories using a trained Convolutional Neural Network (CNN) model.
 
